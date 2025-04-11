@@ -29,10 +29,11 @@
 
 ## 🔗 Baixe o jogo no itch.io
 
-<div style="border: 2px solid red; padding: 10px; background-color: #ffe5e5;">
-  <strong>🕹️ <a href="https://marialuiza-pin.itch.io/gemshard" target="_blank">Clique aqui para jogar ou baixar no itch.io</a></strong>
+<div align="center">
+  <a href="https://marialuiza-pin.itch.io/gemshard" target="_blank">
+    <img src="https://img.shields.io/badge/JOGAR%20NO-itcho.io-red?style=for-the-badge&logo=itch-io&logoColor=white" alt="Jogar no Itch.io">
+  </a>
 </div>
-
 ---
 
 ## 🕹️ Controles
