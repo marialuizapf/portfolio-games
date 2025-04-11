@@ -36,6 +36,9 @@
 
 ## 🔗 Baixe o jogo no itch.io
 
+Se preferir, você também pode **jogar ou baixar o Gemshard diretamente pelo Itch.io**, uma plataforma segura e feita especialmente para jogos independentes.  
+Ideal se você quiser evitar o aviso do Windows ou jogar direto do navegador (caso esteja disponível lá)!
+
 <div align="center">
   <a href="https://marialuiza-pin.itch.io/gemshard" target="_blank">
     <img src="https://img.shields.io/badge/JOGAR%20NO-itcho.io-red?style=for-the-badge&logo=itch-io&logoColor=white" alt="Jogar no Itch.io">
