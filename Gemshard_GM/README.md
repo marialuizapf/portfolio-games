@@ -7,7 +7,7 @@
 
 ## 📦 Instalação
 
-1. Baixe o jogo clicando no link vermelho abaixo.
+1. Baixe o jogo clicando no link verde abaixo.
 2. Execute o arquivo `Gemshard_beta.exe`.
 
 <div align="center">
