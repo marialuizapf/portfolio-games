@@ -1,6 +1,6 @@
 # 🎮 Gemshard Beta
 
-*Gemshard** é um jogo desenvolvido por minha equipe, como parte da minha **primeira Game Jam**!  
+**Gemshard** é um jogo desenvolvido por minha equipe, como parte da minha **primeira Game Jam**!  
 **Programei tudo sozinha** em apenas **uma semana**, usando **GameMaker**. Foi meu primeiro projeto de jogo completo, feito com dedicação e muita vontade de aprender e criar algo jogável do zero!
 
 ---
