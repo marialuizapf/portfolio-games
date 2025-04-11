@@ -1,0 +1,13 @@
+# Arquivos de cache e temporários
+.gml.cache/
+*.yyc
+*.log
+*.tmp
+
+# Backups automáticos
+*.autosave
+*.backup
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
