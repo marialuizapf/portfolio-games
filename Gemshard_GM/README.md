@@ -17,9 +17,6 @@
   </a>
 </div>
 
-> ⚠️ O Windows pode exibir um alerta ("Windows protegeu seu PC"). Clique em **"Mais informações" > "Executar assim mesmo"** para continuar.  
-> Isso é normal em arquivos `.exe` feitos por desenvolvedores independentes.
-
 > 🧠 **O que tem na pasta?**  
 > A pasta foi gerada pelo próprio GameMaker e contém o executável do jogo, arquivos de configuração, e outros arquivos necessários para o funcionamento. **Não exclua nenhum arquivo!**
 
