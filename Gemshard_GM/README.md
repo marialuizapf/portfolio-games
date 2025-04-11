@@ -33,7 +33,8 @@
   <strong>🕹️ <a href="https://seu-usuario.itch.io/gemshard" target="_blank">Clique aqui para jogar ou baixar no itch.io</a></strong>
 </div>
 
-> *[https://marialuiza-pin.itch.io/gemshard]*
+> *(https://marialuiza-pin.itch.io/gemshard)*
+
 
 ---
 
@@ -47,14 +48,6 @@
 - **Setas (← ↑ ↓ →)**: Mover o personagem
 - **Enter**: Passar diálogos
 - **Espaço**: Interagir com objetos e elementos no mapa
-
----
-
-## 💬 Sobre o projeto
-
-Este foi o **meu primeiro jogo**, feito em uma semana como desafio pessoal para uma Game Jam. Fiz tudo sozinha: desde o design, a programação, a lógica de jogo, até os ajustes finais.
-
-Espero que você goste e se divirta! 🎉
 
 ---
 
