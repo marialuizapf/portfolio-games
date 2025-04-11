@@ -10,6 +10,12 @@
 1. Baixe o jogo clicando no link vermelho abaixo.
 2. Execute o arquivo `Gemshard_beta.exe`.
 
+<div align="center">
+  <a href="https://github.com/marialuizapf/portfolio-games/blob/main/Gemshard_GM/release/Gemshard_beta.exe">
+    <img src="https://img.shields.io/badge/BAIXAR%20JOGO%20(GEMSHARD)-vermelho?style=for-the-badge&logo=windows&logoColor=white" alt="Download Gemshard">
+  </a>
+</div>
+
 > 🧠 **O que tem na pasta?**  
 > A pasta foi gerada pelo próprio GameMaker e contém o executável do jogo, arquivos de configuração, e outros arquivos necessários para o funcionamento. **Não exclua nenhum arquivo!**
 
