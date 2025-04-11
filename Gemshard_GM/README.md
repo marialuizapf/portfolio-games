@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/JOGAR%20NO-itcho.io-red?style=for-the-badge&logo=itch-io&logoColor=white" alt="Jogar no Itch.io">
   </a>
 </div>
----
 
 ## 🕹️ Controles
 
